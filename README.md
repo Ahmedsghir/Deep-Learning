@@ -46,5 +46,5 @@ Instructor: [Andrew Ng, DeepLearning.ai]()
  2. Week2 - Natural Language Processing & Word Embeddings
  3. Week3 - Sequence models & Attention mechanism
  
-<p align="center"> *************************************************************************************************************************************</p>
+<p align="center"> 
 
